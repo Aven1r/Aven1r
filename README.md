@@ -3,7 +3,7 @@
 
 - 🔭 I’m a student at [MTS Data Analytics school](https://www.teta.mts.ru/analytics-school)
 
-- 🌱 I’m currently learning **ML, Spark and **
+- 🌱 I’m currently learning **ML, MLOps and Spark**
 
 - 👯 Looking to collaborate on **any real data related projects**
 
